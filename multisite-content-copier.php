@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Multisite Content Copier
-Plugin URI: https://premium.wpmudev.org/project/multisite-content-copier/
+Plugin URI: https://github.com/wpmudev/multisite-content-copier/
 Description: Copy any content from any site in your network to any other site or group of sites in the same network.
 Author: WPMU DEV
 Version: 1.5.4-BETA-1
